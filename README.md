@@ -1,11 +1,11 @@
-HTML
 
-<!DOCTYPE html>
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Data Analyst Portfolio</title>
+    <title>Tara Kenny-Data Analytics Portfolio</title>
     <style>
         body {
             font-family: sans-serif;
@@ -34,7 +34,7 @@ HTML
 
     <h1>Welcome to My Data Analytics Portfolio</h1>
 
-    <p>Hello! I'm [Your Name], a passionate data analyst with experience in [mention your key skills, e.g., data visualization, statistical analysis, machine learning]. I'm dedicated to transforming raw data into actionable insights to drive informed decision-making. Below are some examples of my work.</p>
+    <p>Hello! I'm Tara Kenny, a data analyst with experience in various tools used in analytics, statistics and visualization as well as storytelling. I am really excited about transforming raw data into actionable insights to drive informed decision-making. Below are some examples of my work.</p>
 
     <h2>Projects</h2>
 
@@ -60,10 +60,11 @@ HTML
     </div>
 
     <h2>Contact</h2>
-    <p>Feel free to connect with me on <a href="[Your LinkedIn Profile URL]">LinkedIn</a> or <a href="mailto:[Your Email Address]">email</a>.</p>
-    <p><a href="[Your GitHub Profile URL]">My GitHub Profile</a></p>
+    <p>Feel free to connect with me on <a href="[https://www.linkedin.com/in/taramkenny/]">LinkedIn</a> or <a href="mailto:taramkenny@icloud.com">email</a>.</p>
+    <p><a href="https://github.com/tarak13">My GitHub Profile</a></p>
+    <p><a href="https://www.kaggle.com/tarakenny">My Kaggle Profile</a></p>
 
 </body>
 </html>
 
-this is a test
+
