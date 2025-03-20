@@ -39,9 +39,9 @@
     <h2>Projects</h2>
 
     <div class="project">
-        <h3>Project 1: [Project Title]</h3>
-        <p>[Brief description of the project and your role.]</p>
-        <p><strong>Technologies Used:</strong> [List technologies, e.g., Python, SQL, Tableau]</p>
+        <h3>Project 1: Comparing a sample of data from Fitbit to AHA guidelines for exercise</h3>
+        <p>Case study analysing available fitbit data and comparing how well the participants meet American Heart Association guidelines for exercise</p>
+        <p><strong>Technologies Used:</strong> [R]</p>
         <p><a href="[Link to your project, e.g., GitHub repository, blog post]">View Project</a></p>
     </div>
 
