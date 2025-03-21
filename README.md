@@ -42,7 +42,7 @@
         <h3>Project 1: Correlating people's Fitbit data to AHA guidelines for exercise</h3>
         <p>Case study analysing available fitbit data and comparing how well the participants meet American Heart Association guidelines for exercise</p>
         <p><strong>Technologies Used:</strong> [R]</p>
-        <p><a href="https://github.com/tarak13/DataAnalysisProjects">View Project</a></p>
+        <p><a href="https://github.com/tarak13/DataAnalysisProjects.index.html">View Project</a></p>
     </div>
 
     <div class="project">
