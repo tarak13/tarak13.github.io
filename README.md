@@ -39,10 +39,10 @@
     <h2>Projects</h2>
 
     <div class="project">
-        <h3>Project 1: Comparing a sample of data from Fitbit to AHA guidelines for exercise</h3>
+        <h3>Project 1: Correlating people's Fitbit data to AHA guidelines for exercise</h3>
         <p>Case study analysing available fitbit data and comparing how well the participants meet American Heart Association guidelines for exercise</p>
         <p><strong>Technologies Used:</strong> [R]</p>
-        <p><a href="[Link to your project, e.g., GitHub repository, blog post]">View Project</a></p>
+        <p><a href="https://github.com/tarak13/DataAnalysisProjects">View Project</a></p>
     </div>
 
     <div class="project">
