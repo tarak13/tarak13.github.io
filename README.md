@@ -34,7 +34,7 @@
 
     <h1>Welcome to My Data Analytics Portfolio via Github Pages</h1>
 
-    <p>Hello! I'm Tara Kenny, a data analyst with experience in various tools used in analytics, statistics and visualization as well as storytelling. I am really excited about transforming raw data into actionable insights to drive informed decision-making. Below are some examples of my work.</p>
+    <p>Hello! I used a branch here.   I'm Tara Kenny, a data analyst with experience in various tools used in analytics, statistics and visualization as well as storytelling. I am really excited about transforming raw data into actionable insights to drive informed decision-making. Below are some examples of my work.</p>
 
     <h2>Projects</h2>
 
