@@ -48,7 +48,7 @@
     
     <h2>Contact</h2>
     <p>Feel free to connect with me via: 
-    <p><a href="https://www.linkedin.com/in/taramkenny/">LinkedIn</a>, <a href="mailto:taramkenny@icloud.com">email</a>, <a href="https://github.com/tarak13">my GitHub profile</a>, or <a href="https://www.kaggle.com/tarakenny">my Kaggle profile</a>.</p>
+    <a href="https://www.linkedin.com/in/taramkenny/">LinkedIn</a>, <a href="mailto:taramkenny@icloud.com">email</a>, <a href="https://github.com/tarak13">my GitHub profile</a>, or <a href="https://www.kaggle.com/tarakenny">my Kaggle profile</a>.</p>
     
 </body>
 </html>
