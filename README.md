@@ -40,10 +40,10 @@
 
     <div class="project">
         <h3>Correlating people's Fitbit data to AHA guidelines for exercise</h3>
-        <p>Case study analysing available fitbit data and comparing how well the participants meet American Heart Association guidelines for exercise.  The data came from Kaggle https://www.kaggle.com/datasets/arashnic/fitbit</p>
-        <p><strong>Technologies Used:</strong> R </p>
+        <p>Case study analysing available fitbit data and comparing how well the participants meet American Heart Association guidelines for exercise.  
+        <p>Technologies Used:</strong> R, Jupiter Notebooks </p>
         <p><a href="https://www.kaggle.com/code/tarakenny/fitbit-sample-vs-aha-guideline-analysis">Kaggle Project</a></p>
-        <p><a href="https://github.com/tarak13/FitBit-AHA-Analysis">Github FIles</a></p>
+        <p><a href="https://github.com/tarak13/FitBit-AHA-Analysis/tree/main/RStudio%20Code">R Code and Output</a></p>
         <p><a href="https://www.kaggle.com/datasets/arashnic/fitbit">Link to Kaggle data</a></p>
     </div>
 
