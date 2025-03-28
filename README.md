@@ -47,11 +47,11 @@
 
     
     <h2>Contact</h2>
-    <p>Feel free to connect with me on 
-    <p><a href="https://www.linkedin.com/in/taramkenny/">Tara's LinkedIn Profile</a> or 
-    <p><a href="mailto:taramkenny@icloud.com">Tara's email</a>.</p>
-    <p><a href="https://github.com/tarak13">Tara's GitHub Profile</a></p>
-    <p><a href="https://www.kaggle.com/tarakenny">Tara's Kaggle Profile</a></p>
+    <p>Feel free to connect with me via: 
+    <p><a href="https://www.linkedin.com/in/taramkenny/">LinkedIn</a> or 
+    <p><a href="mailto:taramkenny@icloud.com">email</a>.</p>
+    <p><a href="https://github.com/tarak13">GitHub</a></p>
+    <p><a href="https://www.kaggle.com/tarakenny">Kaggle</a></p>
 
 </body>
 </html>
