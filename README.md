@@ -32,17 +32,19 @@
 </head>
 <body>
 
-    <h1>Welcome to My Data Analytics Portfolio via Github Pages</h1>
+    <h1>Welcome to My Data Analytics Portfolio</h1>
 
     <p>Hello! I'm Tara Kenny, a data analyst with experience in various tools used in analytics, statistics and visualization as well as storytelling. I am really excited about transforming raw data into actionable insights to drive informed decision-making. Below are some examples of my work.</p>
 
-    <h2>Projects</h2>
+    <h2>Case Studies</h2>
 
     <div class="project">
-        <h3>Project 1: Correlating people's Fitbit data to AHA guidelines for exercise</h3>
-        <p>Case study analysing available fitbit data and comparing how well the participants meet American Heart Association guidelines for exercise</p>
-        <p><strong>Technologies Used:</strong> [R]</p>
-        <p><a href="https://github.com/tarak13/FitBit-AHA-Analysis">View Project</a></p>
+        <h3>Correlating people's Fitbit data to AHA guidelines for exercise</h3>
+        <p>Case study analysing available fitbit data and comparing how well the participants meet American Heart Association guidelines for exercise.  The data came from Kaggle https://www.kaggle.com/datasets/arashnic/fitbit</p>
+        <p><strong>Technologies Used:</strong> R </p>
+        <p><a href="https://www.kaggle.com/code/tarakenny/fitbit-sample-vs-aha-guideline-analysis">Kaggle Project</a></p>
+        <p><a href="https://github.com/tarak13/FitBit-AHA-Analysis">Github FIles</a></p>
+        <p><a href="https://www.kaggle.com/datasets/arashnic/fitbit">Link to Kaggle data</a></p>
     </div>
 
     
