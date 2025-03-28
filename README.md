@@ -34,7 +34,7 @@
 
     <h1>Welcome to My Data Analytics Portfolio via Github Pages</h1>
 
-    <p>Hello! I used a branch here.   I'm Tara Kenny, a data analyst with experience in various tools used in analytics, statistics and visualization as well as storytelling. I am really excited about transforming raw data into actionable insights to drive informed decision-making. Below are some examples of my work.</p>
+    <p>Hello! I'm Tara Kenny, a data analyst with experience in various tools used in analytics, statistics and visualization as well as storytelling. I am really excited about transforming raw data into actionable insights to drive informed decision-making. Below are some examples of my work.</p>
 
     <h2>Projects</h2>
 
@@ -42,27 +42,15 @@
         <h3>Project 1: Correlating people's Fitbit data to AHA guidelines for exercise</h3>
         <p>Case study analysing available fitbit data and comparing how well the participants meet American Heart Association guidelines for exercise</p>
         <p><strong>Technologies Used:</strong> [R]</p>
-        <p><a href="https://github.com/tarak13/DataAnalysisProjects">View Project</a></p>
+        <p><a href="https://github.com/tarak13/FitBit-AHA-Analysis">View Project</a></p>
     </div>
 
-    <div class="project">
-        <h3>Project 2: [Project Title]</h3>
-        <p>[Brief description of the project and your role.]</p>
-        <p><strong>Technologies Used:</strong> [List technologies, e.g., R, Power BI, Excel]</p>
-        <p><a href="[Link to your project]">View Project</a></p>
-    </div>
-
-    <div class="project">
-        <h3>Project 3: [Project Title]</h3>
-        <p>[Brief description of the project and your role.]</p>
-        <p><strong>Technologies Used:</strong> [List technologies, e.g., Python (Pandas, Scikit-learn), Google Sheets]</p>
-        <p><a href="[Link to your project]">View Project</a></p>
-    </div>
-
+    
     <h2>Contact</h2>
-    <p>Feel free to connect with me on <a href="[https://www.linkedin.com/in/taramkenny/]">LinkedIn</a> or <a href="mailto:taramkenny@icloud.com">email</a>.</p>
-    <p><a href="https://github.com/tarak13">My GitHub Profile</a></p>
-    <p><a href="https://www.kaggle.com/tarakenny">My Kaggle Profile</a></p>
+    <p>Feel free to connect with me via: 
+    <p><a href="https://www.linkedin.com/in/taramkenny/">LinkedIn</a>, <a href="mailto:taramkenny@icloud.com">email</a>, 
+    <p><a href="https://github.com/tarak13">GitHub</a></p>
+    <p><a href="https://www.kaggle.com/tarakenny">Kaggle</a></p>
 
 </body>
 </html>
