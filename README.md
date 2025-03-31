@@ -73,9 +73,10 @@
     <div class="project">
         <h3>Fitbit Data Analysis</h3>
         <p>Analyzed Fitbit data against AHA exercise guidelines.</p>
-        <p>Technologies: R, Jupyter Notebooks</p>
+        <p>Technologies: R, Jupyter Notebooks, Tableau </p>
         <p><a href="https://www.kaggle.com/code/tarakenny/fitbit-sample-vs-aha-guideline-analysis">Kaggle Project</a></p>
         <p><a href="https://github.com/tarak13/FitBit-AHA-Analysis/tree/main/RStudio%20Code">R Code</a></p>
+	<p><a href="https://public.tableau.com/app/profile/tara.kenny/vizzes>Tableau Mockups</a></p>
         <p><a href="https://www.kaggle.com/datasets/arashnic/fitbit">Data Source</a></p>
     </div>
 
