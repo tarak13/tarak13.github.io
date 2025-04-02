@@ -79,6 +79,16 @@
 	<p><a href="https://public.tableau.com/app/profile/tara.kenny/vizzes">Tableau Mockups</a></p>
         <p><a href="https://www.kaggle.com/datasets/arashnic/fitbit">Data Source</a></p>
     </div>
+    
+    <h2>Work Samples</h2>
+
+    <div class="project">
+        <h3>PowerBI</h3>
+        <p>Various Visualizations created in PowerBI</p>
+        <p>Technologies: PowerBI </p>
+	<p><a href="https://github.com/tarak13/PowerBI-Work/tree/main/SalesAnalysis">Sales Analysis Visualizations</a></p>
+        <p><a href="https://github.com/tarak13/PowerBI-Work/tree/main/EnergyAnalysis">Energy Analysis Visualizations</a></p>
+	</div>
 
     <h2>Contact</h2>
     <p>Connect with me:</p>
