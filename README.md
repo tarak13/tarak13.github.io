@@ -94,8 +94,9 @@
         <h3>Excel</h3>
         <p>Various Visualizations created in Excel</p>
         <p>Technologies: Excel </p>
-	<p><a href="https://github.com/tarak13/xcel-Vis/tree/main/"Examination of Menopause and Alcoholism"</a></p>
-        	</div>
+	<p><a href="https://github.com/tarak13/xcel-vis/tree/main/Examination of Menopause and Alcoholism">Examination of Menopause and Alcoholism</a></p>
+	</div>
+        	
  
     <h2>Contact</h2>
     <p>Connect with me:</p>
