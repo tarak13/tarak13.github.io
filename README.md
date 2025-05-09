@@ -90,6 +90,13 @@
         <p><a href="https://github.com/tarak13/PowerBI-Work/tree/main/EnergyAnalysis">Energy Analysis Visualizations</a></p>
 	</div>
 
+    <div class="project">
+        <h3>Excel</h3>
+        <p>Various Visualizations created in Excel</p>
+        <p>Technologies: Excel </p>
+	<p><a href="https://github.com/tarak13/xcel-Vis/tree/main/"Examination of Menopause and Alcoholism"</a></p>
+        	</div>
+ 
     <h2>Contact</h2>
     <p>Connect with me:</p>
     <ul>
