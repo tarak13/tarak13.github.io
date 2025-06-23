@@ -95,6 +95,7 @@
         <p>Various Visualizations created in Excel</p>
         <p>Technologies: Excel </p>
 	<p><a href="https://github.com/tarak13/xcel-vis/tree/main/Examination of Menopause and Alcoholism">Examination of Menopause and Alcoholism</a></p>
+        <p><a href="https://github.com/tarak13/xcel-vis/tree/main/Excel-Dashboard-Sales">Sales Analysis Dashboard in Excel</a></p>
 	</div>
         	
  
